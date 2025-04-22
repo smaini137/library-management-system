@@ -1,0 +1,12 @@
+com\library\model\Member.class
+com\library\utils\DatabaseConnection.class
+com\library\api\IssueApi.class
+com\library\api\BookApi.class
+com\library\api\LoginApi.class
+com\library\api\MemberApi.class
+com\library\api\ApplicationConfig.class
+com\library\model\Book.class
+com\mycompany\librarymanagement\JakartaRestConfiguration.class
+com\library\model\User.class
+com\mycompany\librarymanagement\resources\JakartaEE10Resource.class
+com\library\model\Issue.class
